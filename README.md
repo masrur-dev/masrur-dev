@@ -15,11 +15,14 @@
 
 ### 🔗 Connect with me
 
+### 🔗 Connect with me
+
 <p align="left">
-<a href="https://instagram.com/sahriyar_masrur" target="_blank">
+<a href="https://www.instagram.com/sahriyarmasrur/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
+
 
 ### 🛠️ Languages and Tools
 
