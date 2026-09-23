@@ -3,7 +3,7 @@
 * 🔭 Currently working on **Book Vibe**
 * 🌱 Currently learning **JavaScript, React, Next.js & TypeScript**
 * 👯 Looking to collaborate on **Open-source frontend projects**
-* 💬 Ask me about **HTML, CSS, JavaScript & React**
+* 💬 Ask me about **HTML, CSS, JavaScript, React & Tailwind CSS**
 * 📫 Reach me at **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**
 * ⚡ Fun fact: **I love coding and learning new things**
 
@@ -18,7 +18,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="My Skills"/>
 </p>
 
 ## 🔥 GitHub Streak
