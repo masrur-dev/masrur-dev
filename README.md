@@ -1,10 +1,10 @@
 ## About Me
 
-*  Currently working on **Book Vibe**
-*  Currently learning **JavaScript, React, Next.js & TypeScript**
+*  Currently working on **Amazon Cloning**
+*  Currently learning **JavaScript, React, Next.js, TypeScript & Mongodb**
 *  Looking to collaborate on **Open-source frontend projects**
-*  Ask me about **HTML, CSS, JavaScript, React & Tailwind CSS**
-*  Reach me at **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**
+*  Ask me about **HTML, CSS, JavaScript, React, Next.js, TypeScript & Tailwind CSS**
+*  Reach me at ***[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)***
 *  Fun fact: **I love coding and learning new things**
 
 ##  Connect With Me
@@ -12,6 +12,9 @@
 <p align="left">
   <a href="https://www.instagram.com/sahriyarmasrur/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/sahriyarmasrur/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
   </a>
 </p>
 
