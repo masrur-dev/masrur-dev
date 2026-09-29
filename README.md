@@ -14,8 +14,11 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/sahriyarmasrur/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
+</a>
+  <a href="https://wa.me/8801603236581" target="_blank">
+  <img src="https://skillicons.dev/icons?i=whatsapp" width="45" height="45" alt="WhatsApp"/>
+</a>
 </p>
 
 ##  Languages & Tools
