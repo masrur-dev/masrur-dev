@@ -16,7 +16,9 @@
 
 </div>
 
+
 ---
+
 
 ## About Me
 
@@ -29,7 +31,9 @@
 |   | Reach me at **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**   |
 |   | Fun fact: **I love coding and learning new things**                               |
 
+
 ---
+
 
 ## Connect With Me
 
@@ -49,7 +53,9 @@
 
 </p>
 
+
 ---
+
 
 ## Languages & Tools
 
@@ -58,6 +64,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,mongodb&theme=dark" alt="My Skills"/>
 
 </p>
+
 
 ---
 
@@ -71,5 +78,5 @@
 
 ---
 <p align="center"> 
-### Thanks for visiting my profile!
+ Thanks for visiting my profile!
 </p>
