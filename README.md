@@ -71,6 +71,6 @@
 
 ---
 
-<p align="left">
+### Thanks for visiting my profile!
 
-<img src="https://komarev
+</p>
