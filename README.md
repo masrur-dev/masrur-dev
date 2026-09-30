@@ -18,26 +18,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<div align="center">
-
-|    |                                                                                   |
-| -- | --------------------------------------------------------------------------------- |
-| *  | Currently working on **Amazon Cloning**                                           |
-| *  | Currently learning **JavaScript, React, Next.js, TypeScript & MongoDB**           |
-| *  | Looking to collaborate on **Open-source frontend projects**                       |
-| *  | Ask me about **HTML, CSS, JavaScript, React, Next.js, TypeScript & Tailwind CSS** |
-| *  | Reach me at **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**   |
-| *  | Fun fact: **I love coding and learning new things**                               |
-
-</div>
+|   |                                                                                   |
+| - | --------------------------------------------------------------------------------- |
+|   | Currently working on **Amazon Cloning**                                           |
+|   | Currently learning **JavaScript, React, Next.js, TypeScript & MongoDB**           |
+|   | Looking to collaborate on **Open-source frontend projects**                       |
+|   | Ask me about **HTML, CSS, JavaScript, React, Next.js, TypeScript & Tailwind CSS** |
+|   | Reach me at **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**   |
+|   | Fun fact: **I love coding and learning new things**                               |
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<div align="center">
+<p align="left">
 
 <a href="https://www.instagram.com/sahriyarmasrur/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
@@ -51,36 +47,30 @@
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-##  Languages & Tools
+## Languages & Tools
 
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,mongodb&theme=dark" alt="My Skills"/>
 
-</div>
+</p>
 
 ---
 
-##  GitHub Streak
+## GitHub Streak
 
-<div align="center">
+<p align="left">
 
 <img src="https://streak-stats.demolab.com/?user=masrur-dev&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=masrur-dev&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
-
-<br/><br/>
-
-### 💙 Thanks for visiting my profile!
-
-</div>
+<img src="https://komarev
