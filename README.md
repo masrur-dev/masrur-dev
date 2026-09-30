@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Masrur**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Masrur" alt="Hi, I'm Masrur" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Learner;Future+Full-Stack+Web+Engineer" alt="Typing SVG" />
 
@@ -53,9 +53,19 @@
 
 ## Languages & Tools
 
+### Currently Working With
+
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,mongodb&theme=dark" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Current Skills"/>
+
+</p>
+
+### Currently Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb&theme=dark" alt="Learning"/>
 
 </p>
 
@@ -70,6 +80,12 @@
 </p>
 
 ---
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=masrur-dev&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
+
+<br/><br/>
 
 ### Thanks for visiting my profile!
 
