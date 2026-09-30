@@ -63,12 +63,13 @@
 
 ## GitHub Streak
 
-<p align="left">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=masrur-dev&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </p>
 
 ---
-
+<p align="center"> 
 ### Thanks for visiting my profile!
+</p>
