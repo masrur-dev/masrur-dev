@@ -14,7 +14,7 @@
     <a href="https://github.com/masrur-dev">
       <img src="https://img.shields.io/badge/GitHub-masrur--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
-    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-58A6FF?style=for-the-badge" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Focus-FullStack%20Development-58A6FF?style=for-the-badge" alt="Focus"/>
   </p>
 
 </div>
