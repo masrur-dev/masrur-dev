@@ -24,8 +24,8 @@
 ## About Me
 
 - I'm a frontend developer from Bangladesh.
-- Currently working on **Amazon Cloning** and real-world web projects.
-- Learning **JavaScript, React, Next.js, TypeScript, and MongoDB**.
+- Currently working on **hireloop** and real-world web projects.
+- Learning **Nodejs**.
 - Interested in open-source contributions and frontend collaboration.
 - My goal is to become a **Full-Stack Web Engineer**.
 - Email: **[lookingformasrur@gmail.com](mailto:lookingformasrur@gmail.com)**
