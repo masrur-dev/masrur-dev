@@ -62,18 +62,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=masrur-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masrur-dev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
